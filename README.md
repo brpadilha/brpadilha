@@ -8,7 +8,7 @@ Sou uma pessoa desenvolvedora que adora novos desafios e desenvolver problemas u
 Sou um FullStack Developer em Javascript, mas sempre de olho em tecnologias diferentes. :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **Gen|Retail**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React e Back-end usando NodeJs ou Ruby on Rails
  <br/> :blush: &nbsp; Posso te ajudar com backend NodeJs e frontend usando React.
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js & Typescript
  
