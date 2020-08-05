@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+<img width="auto" src="https://pbs.twimg.com/profile_banners/33743112/1556590904/1500x500">
 
 
 # Bruno Padilha
