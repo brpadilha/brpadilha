@@ -23,3 +23,5 @@
  <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=brpadilha&show_icons=true&count_private=true" alt="brpadilha" /> </p>
   
 
+
+"Not all those who wander are lost." - J.R.R. Tolkien
