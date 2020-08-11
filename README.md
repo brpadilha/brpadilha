@@ -12,6 +12,6 @@ I am a brazilian software developer who loves new challenges and solves problems
  <br/> :blush: &nbsp; I can help you with React or NodeJS.
  <br/> :computer: &nbsp; My stack: ReactJS, Node.js & Typescript
   <br/> 💬  &nbsp; About me: I like technologies, games like CS:GO, LOL, PS4 game, watch movies and travel.
- <br/> :email: &nbsp; Contact me for work or play something: [![Linkedin Badge](https://img.shields.io/badge/-BrunoPadilha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brpadilha/)](https://www.linkedin.com/in/brpadilha/) 
+ <br/> :email: &nbsp; Contact me here: [![Linkedin Badge](https://img.shields.io/badge/-BrunoPadilha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brpadilha/)](https://www.linkedin.com/in/brpadilha/) 
 [![Gmail Badge](https://img.shields.io/badge/-brpadilha.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brpadilha.dev@gmail.com)](brpadilha.dev@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/-brpadilha%234062-7289DA?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/)](https://discord.com/)
