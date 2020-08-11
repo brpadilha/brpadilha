@@ -3,16 +3,15 @@
 
 # Bruno Padilha
 
-## Olá mundo 👋
-Sou uma pessoa desenvolvedora que adora novos desafios e desenvolver problemas usando programação.
-Sou um FullStack Developer em Javascript, mas sempre de olho em tecnologias diferentes. :computer:
+## Hello World 👋
+I am a brazilian software developer who loves new challenges and solves problems codding.
+<br/> I like to code on Javascript, and I am always looking for new technologies. :computer:
 
- :rocket:  &nbsp; Estou trabalhando na **Gen|Retail**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React e Back-end usando NodeJs ou Ruby on Rails
- <br/> :blush: &nbsp; Posso te ajudar com backend NodeJs e frontend usando React.
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js & Typescript
- 
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL, jogos de PS4 e assistir filmes e série na Netflix.
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-BrunoPadilha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brpadilha/)](https://www.linkedin.com/in/brpadilha/) 
+ :rocket:  &nbsp; I am working at **Gen|Retail**
+ <br/> :purple_heart: &nbsp; I am searching to collaborate in Front-end projects using React and Back-end Back-end projects using NodeJs or Ruby on Rails.
+ <br/> :blush: &nbsp; I can help you with React or NodeJS.
+ <br/> :computer: &nbsp; My stack: ReactJS, Node.js & Typescript
+  <br/> 💬  &nbsp; About me: I like technologies, games like CS:GO, LOL, PS4 game, watch movies and travel.
+ <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-BrunoPadilha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brpadilha/)](https://www.linkedin.com/in/brpadilha/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-brpadilha.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brpadilha.dev@gmail.com)](brpadilha.dev@gmail.com)
