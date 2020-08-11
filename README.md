@@ -1,4 +1,4 @@
-<img width="auto" src="https://pbs.twimg.com/profile_banners/33743112/1556590904/1500x500">
+<img width="auto" src="https://giphy.com/gifs/ZZeU8SfctSHAY">
 
 
 # Bruno Padilha
