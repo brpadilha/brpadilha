@@ -1,4 +1,4 @@
-<img align="right" width="420" height="260" src="https://media.giphy.com/media/13LdcaQJyPtr9u/giphy.gif">
+<img align="right" width="420" height="260" src="https://giphy.com/gifs/samurai-spirits-shodownsamurai-gYgiEnQQy1Ucw">
 
 # Bruno Padilha
 
