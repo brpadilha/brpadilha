@@ -1,4 +1,5 @@
 <img align="left" width="332" height="480" src="https://media.giphy.com/media/ejHCFHxAlZfl6/giphy.gif">
+
 # Bruno Padilha
 [![Linkedin Badge](https://img.shields.io/badge/-BrunoPadilha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brpadilha/)](https://www.linkedin.com/in/brpadilha/) 
 [![Gmail Badge](https://img.shields.io/badge/-brpadilha.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brpadilha.dev@gmail.com)](brpadilha.dev@gmail.com)
