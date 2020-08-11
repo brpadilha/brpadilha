@@ -6,6 +6,14 @@
 [![Gmail Badge](https://img.shields.io/badge/-brpadilha.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brpadilha.dev@gmail.com)](brpadilha.dev@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/-brpadilha%234062-7289DA?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/)](https://discord.com/)
 
+<p align="left">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
+</p>
+
 ## Hello World 👋
 I am a brazilian software developer who loves new challenges and solves problems codding.
 <br/> I like to code on Javascript, and I am always looking for new technologies. :computer:
@@ -16,6 +24,7 @@ I am a brazilian software developer who loves new challenges and solves problems
  <br/> :computer: &nbsp; My stack: ReactJS, Node.js & Typescript
  <br/> 💬  &nbsp; About me: I like technologies, games like CS:GO, LOL, PS4 game, watch movies and travel.
   
+ 
  <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=brpadilha&show_icons=true&count_private=true" alt="brpadilha" /> </p>
   
 
