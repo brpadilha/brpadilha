@@ -1,4 +1,4 @@
-![Landscape Gif](https://media.giphy.com/media/gYgiEnQQy1Ucw/giphy.gif)
+![Landscape Gif](https://media.giphy.com/media/13LdcaQJyPtr9u/giphy.gif)
 
 # Bruno Padilha
 
