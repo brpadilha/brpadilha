@@ -15,15 +15,10 @@
 
 ## Hello World 👋
 <p text-align='right'>
-I am a brazilian software developer who loves new challenges and solves problems codding.
-<br/> I like to code on Javascript, and I am always looking for new technologies. :computer:
-
- :rocket:  &nbsp; I am working at [**Gen|Retail**](https://gen.shop/).
- <br/> :blue_heart: &nbsp; I am searching to collaborate in Front-end projects using React and Back-end Back-end projects using NodeJs or Ruby on Rails.
+:rocket:  &nbsp; I am working at [**Gen|Retail**](https://gen.shop/).
  <br/> :blush: &nbsp; I can help you with React or NodeJS.
  <br/> :computer: &nbsp; My stack: ReactJS, Node.js & Typescript
- <br/> 💬&nbsp; About me: I like techs, games, movies and travel.
- </p>
+</p>
  
  <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=brpadilha&show_icons=true&count_private=true" alt="brpadilha" /> </p>
   
