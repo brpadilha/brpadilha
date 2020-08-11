@@ -14,6 +14,7 @@
 </p>
 
 ## Hello World 👋
+<p text-align='right'>
 I am a brazilian software developer who loves new challenges and solves problems codding.
 <br/> I like to code on Javascript, and I am always looking for new technologies. :computer:
 
@@ -22,7 +23,7 @@ I am a brazilian software developer who loves new challenges and solves problems
  <br/> :blush: &nbsp; I can help you with React or NodeJS.
  <br/> :computer: &nbsp; My stack: ReactJS, Node.js & Typescript
  <br/> 💬  &nbsp; About me: I like technologies, games like CS:GO, LOL, PS4 game, watch movies and travel.
-  
+ </p>
  
  <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=brpadilha&show_icons=true&count_private=true" alt="brpadilha" /> </p>
   
