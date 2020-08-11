@@ -8,7 +8,7 @@ I am a brazilian software developer who loves new challenges and solves problems
 <br/> I like to code on Javascript, and I am always looking for new technologies. :computer:
 
  :rocket:  &nbsp; I am working at **Gen|Retail**
- <br/> :purple_heart: &nbsp; I am searching to collaborate in Front-end projects using React and Back-end Back-end projects using NodeJs or Ruby on Rails.
+ <br/> :blue_heart: &nbsp; I am searching to collaborate in Front-end projects using React and Back-end Back-end projects using NodeJs or Ruby on Rails.
  <br/> :blush: &nbsp; I can help you with React or NodeJS.
  <br/> :computer: &nbsp; My stack: ReactJS, Node.js & Typescript
   <br/> 💬  &nbsp; About me: I like technologies, games like CS:GO, LOL, PS4 game, watch movies and travel.
