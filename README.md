@@ -14,11 +14,11 @@
 </p>
 
 ## Hello World 👋
-<p text-align='right'>
-:rocket:  &nbsp; I am working at [**Gen|Retail**](https://gen.shop/).
- <br/> :blush: &nbsp; I can help you with React or NodeJS.
- <br/> :computer: &nbsp; My stack: ReactJS, Node.js & Typescript
-</p>
+
+<br/>:rocket:  &nbsp; I am working at [**Gen|Retail**](https://gen.shop/).
+<br/>:blush: &nbsp; I can help you with React or NodeJS.
+<br/>:computer: &nbsp; My stack: ReactJS, Node.js & Typescript
+
  
  <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=brpadilha&show_icons=true&count_private=true" alt="brpadilha" /> </p>
   
