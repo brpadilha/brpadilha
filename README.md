@@ -1,4 +1,4 @@
-<img align="right" width="420" height="260" src="https://media.giphy.com/media/gYgiEnQQy1Ucw/giphy.gif">
+<img align="right" width="420" height="260" src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif">
 
 # Bruno Padilha
 
