@@ -1,4 +1,4 @@
-![Gif](https://media.giphy.com/media/3ohs7R2GceFRJfCKqs/giphy.gif)
+![Gif](https://giphy.com/gifs/3ohs7R2GceFRJfCKqs/html5)
 
 # Bruno Padilha
 
