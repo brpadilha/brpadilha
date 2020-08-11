@@ -16,6 +16,6 @@ I am a brazilian software developer who loves new challenges and solves problems
  <br/> :computer: &nbsp; My stack: ReactJS, Node.js & Typescript
  <br/> 💬  &nbsp; About me: I like technologies, games like CS:GO, LOL, PS4 game, watch movies and travel.
   
- <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=brpadilha&show_icons=true&theme=tokyonight&count_private=true" alt="brpadilha" /> </p>
+ <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=brpadilha&show_icons=true&count_private=true" alt="brpadilha" /> </p>
   
 
