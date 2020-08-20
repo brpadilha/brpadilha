@@ -19,5 +19,6 @@
 <br/>:blush: &nbsp; I can help you with React or NodeJS.
 <br/>:computer: &nbsp; My stack: ReactJS, Node.js & Typescript
 <br/>
-<p><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=brpadilha&show_icons=true&count_private=true" alt="brpadilha" /> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=brpadilha&show_icons=true&count_private=true" alt="brpadilha" /> 
+<br/>
 <p>"Not all those who wander are lost." - J.R.R. Tolkien</p>
