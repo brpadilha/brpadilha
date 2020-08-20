@@ -18,6 +18,5 @@
 <br/>:rocket:  &nbsp; I am working at [**Gen|Retail**](https://gen.shop/).
 <br/>:blush: &nbsp; I can help you with React or NodeJS.
 <br/>:computer: &nbsp; My stack: ReactJS, Node.js & Typescript
-    <p><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=brpadilha&show_icons=true&count_private=true" alt="brpadilha" /> 
-
-"Not all those who wander are lost." - J.R.R. Tolkien
+<p><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=brpadilha&show_icons=true&count_private=true" alt="brpadilha" /> 
+<p>"Not all those who wander are lost." - J.R.R. Tolkien</p>
