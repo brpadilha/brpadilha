@@ -19,9 +19,12 @@
 <br/>:blush: &nbsp; I can help you with React or NodeJS.
 <br/>:computer: &nbsp; My stack: ReactJS, Node.js & Typescript
 
- 
- <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=brpadilha&show_icons=true&count_private=true" alt="brpadilha" /> </p>
-  
+ <table>
+  <tr>
+   <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brpadilha&hide=html&layout=compact" /></td>
+    <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=brpadilha&show_icons=true&count_private=true" alt="brpadilha" /> </td>
+ </tr>
+  </table>
 
 
 "Not all those who wander are lost." - J.R.R. Tolkien
