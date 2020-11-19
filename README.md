@@ -15,7 +15,7 @@
 
 ## Hello World 👋
 
-<br/>:rocket:  &nbsp; I am working at [*Impulso.network**](http://impulso.network/).
+<br/>:rocket:  &nbsp; I am working at [**Impulso.network**](http://impulso.network/).
 <br/>:blush: &nbsp; I can help you with React or NodeJS.
 <br/>:computer: &nbsp; My stack: ReactJS, Node.js & Typescript
 <br/>
