@@ -15,7 +15,7 @@
 
 ## Hello World 👋
 
-<br/>:rocket:  &nbsp; I am working at [**Rock Content**](https://rockcontent.com/br/).
+<br/>:rocket:  &nbsp; I am working at [**OlxBr**](http://olx.com.br).
 <br/>:blush: &nbsp; I can help you with React or NodeJS.
 <br/>:computer: &nbsp; My stack: ReactJS, Node.js & Typescript
 <br/>
