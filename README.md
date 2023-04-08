@@ -15,11 +15,14 @@
 
 ## Hello World 👋
 
-<br/>:rocket:  &nbsp; I am working at [**OlxBr**](http://olx.com.br).
+
 <br/>:blush: &nbsp; I can help you with React or NodeJS.
 <br/>:computer: &nbsp; My stack: ReactJS, Node.js & Typescript
 <br/>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=brpadilha&show_icons=true&count_private=true" alt="brpadilha" /> </p>
 <br/>
+<div>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=brpadilha&show_icons=true&count_private=true" alt="brpadilha" /> </p>
+<div/>
+  <br/>
 <br/>
 <p>"Not all those who wander are lost." - J.R.R. Tolkien</p>
