@@ -25,4 +25,4 @@
 <div/>
   <br/>
 <br/>
-<p>"Not all those who wander are lost." - J.R.R. Tolkien</p>
+
