@@ -9,7 +9,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react" width="20" height="20"/>
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="20" height="20"/>
 <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript" width="20" height="20"/>
-<img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" alt="graphql" width="20" height="20"/>
+
   
 </p>
 
